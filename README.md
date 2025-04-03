@@ -10,3 +10,6 @@ The system scans the leaf for **pores, texture, and health** before processing t
 - ✅ **Binary classification** (Late Blight & Early Blight)  
 - ✅ **Potential for real-time deployment** via web or mobile apps  
 
+![image](https://github.com/user-attachments/assets/78ceab12-44c0-4859-91c9-4b36383db753)
+
+![image](https://github.com/user-attachments/assets/66db24e1-e1cf-4b8b-9822-38043dc3e0e5)
